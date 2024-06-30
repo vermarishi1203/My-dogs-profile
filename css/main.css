@@ -1,0 +1,23 @@
+.profile-pic {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: #500522 2px 5px 5px;
+}
+
+.header-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #ff75aa;
+    height: 100vh;
+}
+.header-content-text {
+    color: white;
+    font-family: monospace;
+    margin: 10px;
+}
+body {
+    margin: 0;
+}
